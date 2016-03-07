@@ -1,15 +1,15 @@
 <?xml version="1.0"?>
 <package >
   <metadata>
-    <id>Package</id>
+    <id>TagCompressor.Net</id>
     <version>1.0.0-beta</version>
-    <authors>Alireza</authors>
-    <owners>Alireza</owners>
+    <authors>Alireza Paridar</authors>
+    <owners>Alireza Paridar</owners>
     <licenseUrl>http://LICENSE_URL_HERE_OR_DELETE_THIS_LINE</licenseUrl>
-    <projectUrl>http://PROJECT_URL_HERE_OR_DELETE_THIS_LINE</projectUrl>
+    <projectUrl>https://github.com/AlirezaP/TagCompressor.Net/tree/master</projectUrl>
     <iconUrl>http://ICON_URL_HERE_OR_DELETE_THIS_LINE</iconUrl>
     <requireLicenseAcceptance>false</requireLicenseAcceptance>
-    <description>TagCompressor is a Mvc Attribute For Tag Comressing</description>
+    <description>TagCompressor.Net is a Mvc Attribute For Tag Comressing. For more info and sample please visit https://github.com/AlirezaP/TagCompressor.Net/</description>
     <releaseNotes>This Version Compatible With Asp 4.5</releaseNotes>
     <copyright>Copyright 2016</copyright>
     <tags>TagCompressor TagMinify TagMinifier</tags>
